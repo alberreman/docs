@@ -17,6 +17,7 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 - Reinventing Anarchy, Again.
 - [Blockchain Technology and Decentralized Governance: Is the State Still Necessary?](http://nzz-files-prod.s3-website-eu-west-1.amazonaws.com/files/9/3/1/blockchain+Is+the+State+Still+Necessary_1.18689931.pdf)
 - [Tolstoy on Anarchy](https://theanarchistlibrary.org/library/leo-tolstoy-on-anarchy)
+- [Emma Goldman on Anarchism](https://theanarchistlibrary.org/library/emma-goldman-anarchism-and-other-essays)
 
 ## Governance
 
