@@ -28,7 +28,7 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 - [On-Chain Vote Buying and the Rise of Dark DAOs](http://hackingdistributed.com/2018/07/02/on-chain-vote-buying/)
 - [Engineering Security Through Coordination Problems](https://vitalik.ca/general/2017/05/08/coordination_problems.html)
 - [Information Civics - Deconstructing the power structures of large-scale social computing networks](https://infocivics.com/)
-
+- [Handbook of Computational Social Choice](http://procaccia.info/papers/comsoc.pdf)
 ## Dispute Resultion
 
 - [A Philosophical Approach to Alternative Dispute Resolution Systems](https://www.mediate.com/articles/SustacZ5.cfm)
@@ -80,3 +80,4 @@ Feel free to commit any links, books, papers related to reputation, economics, g
  - [Crypto Commons](https://medium.com/@m2jr/crypto-commons-da602fb98138)
  - [Inequality and Skin in the Game](https://medium.com/incerto/inequality-and-skin-in-the-game-d8f00bc0cb46)
  - [The Communist Manifesto](https://www.amazon.com/Manifesto-Communist-Party-Karl-Marx/dp/1934451630)
+ - [Sapiens](https://www.ynharari.com/book/sapiens/)
